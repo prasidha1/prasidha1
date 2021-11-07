@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a vivid story teller using technology 👋
 
 <!--
 **prasidha1/prasidha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
