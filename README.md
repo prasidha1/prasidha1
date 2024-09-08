@@ -11,8 +11,8 @@ Here's a bit more about me:
   -  I have **basic knowledge** of React Programming 💻
     
 -🌱 Currently learning:
-  - Data Analysis 📊
-  - Machine Learning 🤖
+    - Data Analysis 📊
+    - Machine Learning 🤖
     
 - 👯 Combining my background in **healthcare** with my love for **data science** Open to collaborating on **open-source** projects
 - 🤔 Looking for help with innovative and challenging projects
