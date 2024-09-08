@@ -30,5 +30,9 @@ Here's a bit more about me:
 ### 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasidha1&layout=compact&theme=radical&count_private=true)
 
-## Projects and Contributions
+### Notable Projects
+- **[WHO-GIS-Centre-For-Health](https://github.com/GIS-Centre-For-Health/data-pipeline-tool)**: Significant contributions and feature development.
+- **[hotsm/fmtm](https://github.com/hotosm/fmtm)**: Implemented major functionalities and improvements.
+- **[creating future-Timetable app]([https://github.com/hotosm/fmtm](https://github.com/creatingfutures/Timetable-1))**: Significant contributions and feature development for teaching.
+
 
