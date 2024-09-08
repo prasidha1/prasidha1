@@ -9,11 +9,12 @@ Here's a bit more about me:
   - Kedro framework
   - Backend projects using **R** and **Python**
   -  I have **basic knowledge** of React Programming 💻
-  🌱 Currently learning:
+    
+-🌱 Currently learning:
   - Data Analysis 📊
   - Machine Learning 🤖
-- 👩‍⚕️ Combining my background in **healthcare** with my love for **data science**
-- 👯 Open to collaborating on **open-source** projects
+    
+- 👯 Combining my background in **healthcare** with my love for **data science** Open to collaborating on **open-source** projects
 - 🤔 Looking for help with innovative and challenging projects
 - 📫 How to reach me: r.prasidha@gmail.com
 - 😄 Pronouns: She/Her
