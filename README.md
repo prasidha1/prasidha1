@@ -23,9 +23,10 @@ Here's a bit more about me:
 
 - I frequently work with **Jupyter Notebooks** 📝, primarily using **Python** and **R** as my main languages.
 
-### 📈 GitHub Stats:
-[![Prasidha's GitHub stats]([https://github-readme-stats.vercel.app/api?username=prasidha1](https://github-readme-stats.vercel.app/api?username=prasidha1&show_icons=true&theme=radical&count_private=true&include_all_commits=true))](https://github.com/prasidha1/github-readme-stats)
+### 📊 GitHub Stats
+![Prasidha stats](https://github-readme-stats.vercel.app/api?username=prasidha1&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
-### 🔥 Top Languages:
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=prasidha1](https://github-readme-stats.vercel.app/api/top-langs/?username=prasidha1&layout=compact&theme=radical&count_private=true))](https://github.com/prasidha1/github-readme-stats)
+### 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasidha1&layout=compact&theme=radical&count_private=true)
+
