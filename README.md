@@ -10,7 +10,7 @@ Here's a bit more about me:
   - Backend projects using **R** and **Python**
   -  I have **basic knowledge** of React Programming 💻
     
--🌱 Currently learning:
+-🌱 **Currently learning:**
     - Data Analysis 📊
     - Machine Learning 🤖
     
