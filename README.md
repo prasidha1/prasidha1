@@ -33,6 +33,6 @@ Here's a bit more about me:
 ### Notable Projects
 - **[WHO-GIS-Centre-For-Health](https://github.com/GIS-Centre-For-Health/data-pipeline-tool)**: Significant contributions and feature development.
 - **[hotsm/fmtm](https://github.com/hotosm/fmtm)**: Implemented major functionalities and improvements.
-- **[creating future-Timetable app]([https://github.com/hotosm/fmtm](https://github.com/creatingfutures/Timetable-1))**: Significant contributions and feature development for teaching.
+- **[creating future-Timetable app](https://github.com/creatingfutures/Timetable-1)**: Significant contributions and feature development for teaching.
 
 
